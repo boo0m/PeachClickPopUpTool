@@ -1,0 +1,4 @@
+﻿  WindowsHwnd.cpp
+e:\vsproject\windowshwnd\windowshwnd\windowshwnd.cpp(28): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\vsproject\windowshwnd\windowshwnd\windowshwnd.cpp(29): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  WindowsHwnd.vcxproj -> E:\VSProject\WindowsHwnd\Debug\WindowsHwnd.exe

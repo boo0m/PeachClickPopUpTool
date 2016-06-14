@@ -1,0 +1,9 @@
+﻿  WindowsHwnd.cpp
+WindowsHwnd.cpp(28): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+WindowsHwnd.cpp(29): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  正在生成代码
+  4 of 10 functions (40.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  WindowsHwnd.vcxproj -> E:\VSProject\WindowsHwnd\Release\WindowsHwnd.exe
